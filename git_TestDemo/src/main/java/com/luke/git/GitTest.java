@@ -5,4 +5,5 @@ public class GitTest {
     private String name;
     private String sex;
     private String address;
+    private  String education;
 }
